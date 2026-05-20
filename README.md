@@ -1,29 +1,9 @@
-# Descrición
 
-Emprega este arquivo para describir os cambios do teu proxecto.
+# IABásicaMatemáticas
+## VillagerDrive
 
-Utiliza o formato en markdown coas marcas básicas que aparcen no seguinte exemplo:
+Se modificó el comportamiento del personaje para que se moviese con físicas (*rigidbody*)
 
-# Título principal
-## Subtítulo
+## PigMove
 
-Texto normal con **negriña** e *cursiva*.
-
-- Lista 1
-- Lista 2
-
-[Ligazón](https://exemplo.com)
-
-
-```csharp
-using UnityEngine;
-
-public class OlaMundo : MonoBehaviour
-{
-    void Start()
-    {
-        Debug.Log("Ola, mundo desde C#!");
-    }
-}
-
-```
+Se modificó el comportamiento del NPC para que se moviese con físicas (*rigidbody*)
